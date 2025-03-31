@@ -3,12 +3,12 @@
     "name": "Countdown Manager Device",
     "version": "1.0",
     "type": "Verse",
-    "download_url": "https://github.com/379cdfc8-1d06-430f-8749-28047f458a55"
+    "file_name": "countdown_manager_device.zip"
   },
   {
-    "name": "Plugin2",
-    "version": "2.0",
-    "type": "Tool",
-    "download_url": "https://example.com/plugin2.zip"
+    "name": "Test",
+    "version": "Alpha",
+    "type": "Testing",
+    "file_name": "test.zip"
   }
 ]
