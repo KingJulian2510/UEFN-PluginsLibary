@@ -28,5 +28,11 @@
     "version": "1.0",
     "type": "Blueprint",
     "file_name": "EmptyProp.zip"
+  },
+  {
+    "name": "Athena Biome Landscape Materials",
+    "version": "1.0",
+    "type": "Material",
+    "file_name": "Athena_Landscape_Biomes.zip"
   }
 ]
