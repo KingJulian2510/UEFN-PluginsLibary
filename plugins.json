@@ -34,5 +34,11 @@
     "version": "1.0",
     "type": "Material",
     "file_name": "Athena_Landscape_Biomes.zip"
+  },
+  {
+    "name": "Storm King",
+    "version": "1.0",
+    "type": "Model",
+    "folder_name": "StormKing"
   }
 ]
