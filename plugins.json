@@ -6,51 +6,27 @@
     "file_name": "countdown_manager_device.zip"
   },
   {
-    "name": "Test",
-    "version": "Alpha",
-    "type": "Testing",
-    "file_name": "test.zip"
+    "name": "Athena HUD",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "AthenaHUD.zip"
   },
   {
-    "name": "Countdown Manager Device",
+    "name": "UEFN Hidden Props (Blueprints)",
     "version": "1.0",
-    "type": "Verse",
-    "file_name": "countdown_manager_device.zip"
+    "type": "Blueprint",
+    "file_name": "HiddenProps.zip"
   },
   {
-    "name": "Countdown Manager Device",
+    "name": "Time API",
     "version": "1.0",
-    "type": "Verse",
-    "file_name": "countdown_manager_device.zip"
+    "type": "API",
+    "file_name": "TimeAPI.zip"
   },
   {
-    "name": "Countdown Manager Device",
+    "name": "Empty Prop",
     "version": "1.0",
-    "type": "Verse",
-    "file_name": "countdown_manager_device.zip"
-  },
-  {
-    "name": "Countdown Manager Device",
-    "version": "1.0",
-    "type": "Verse",
-    "file_name": "countdown_manager_device.zip"
-  },
-  {
-    "name": "Countdown Manager Device",
-    "version": "1.0",
-    "type": "Verse",
-    "file_name": "countdown_manager_device.zip"
-  },
-  {
-    "name": "Countdown Manager Device",
-    "version": "1.0",
-    "type": "Verse",
-    "file_name": "countdown_manager_device.zip"
-  },
-  {
-    "name": "Countdown Manager Device",
-    "version": "1.0",
-    "type": "Verse",
-    "file_name": "countdown_manager_device.zip"
+    "type": "Blueprint",
+    "file_name": "EmptyProp.zip"
   }
 ]
