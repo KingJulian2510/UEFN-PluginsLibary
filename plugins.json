@@ -58,5 +58,11 @@
     "version": "1.0",
     "type": "Blueprint",
     "file_name": "Countdown"
+  },
+  {
+    "name": "Reload Map - Venture (Invalid)",
+    "version": "1.0",
+    "type": "Map",
+    "file_name": "VentureMap"
   }
 ]
