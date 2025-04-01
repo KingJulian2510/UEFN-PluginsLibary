@@ -40,5 +40,11 @@
     "version": "1.0",
     "type": "Model",
     "folder_name": "StormKing"
+  },
+  {
+    "name": "Klombo",
+    "version": "1.0",
+    "type": "Model",
+    "file_name": "Klombo"
   }
 ]
