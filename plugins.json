@@ -46,5 +46,17 @@
     "version": "1.0",
     "type": "Model",
     "file_name": "Klombo"
+  },
+  {
+    "name": "Storm",
+    "version": "1.0",
+    "type": "Blueprint + Material",
+    "file_name": "Storm"
+  },
+  {
+    "name": "Countdown",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "Countdown"
   }
 ]
