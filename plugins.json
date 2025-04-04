@@ -60,7 +60,7 @@
     "file_name": "Countdown"
   },
   {
-    "name": "Reload Map - Venture (Invalid)",
+    "name": "Reload Map - Venture (WIP)",
     "version": "1.0",
     "type": "Map",
     "file_name": "VentureMap"
@@ -70,5 +70,29 @@
     "version": "1.0",
     "type": "Blueprint",
     "file_name": "BattleBus_Anim"
+  },
+  {
+    "name": "Stormshield Barrier",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "StormshieldBarrier"
+  },
+  {
+    "name": "GreasyGroveIce",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "GreasyGroveIce"
+  },
+  {
+    "name": "Doomsday Device",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "DoomsdayDevice"
+  },
+  {
+    "name": "Athena Loot Spawner (BR)",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "AthenaLoot"
   }
 ]
