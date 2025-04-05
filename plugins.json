@@ -94,5 +94,11 @@
     "version": "1.0",
     "type": "Blueprint",
     "file_name": "AthenaLoot"
+  },
+  {
+    "name": "Neo Tilted",
+    "version": "Experimental",
+    "type": "Map",
+    "file_name": "NeoTilted"
   }
 ]
