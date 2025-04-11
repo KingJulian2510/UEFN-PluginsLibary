@@ -100,20 +100,11 @@
     "version": "Experimental",
     "type": "Map",
     "file_name": "NeoTilted"
-<<<<<<< HEAD
   },
   {
     "name": "Getaway LTM Stuff",
     "version": "1.0",
     "type": "Blueprint",
     "file_name": "GetawayLTM"
-  },
-  {
-    "name": "Chapter 1 Map (Real!1!!!)",
-    "version": "Achterbahn",
-    "type": "Itemshop",
-    "file_name": "Zahide"
-=======
->>>>>>> parent of 55425a6 (Getaway)
   }
 ]
