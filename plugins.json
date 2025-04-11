@@ -106,5 +106,11 @@
     "version": "1.0",
     "type": "Blueprint",
     "file_name": "GetawayLTM"
+  },
+  {
+    "name": "Chapter 1 Map (Real!1!!!)",
+    "version": "Achterbahn",
+    "type": "Itemshop",
+    "file_name": "Zahide"
   }
 ]
