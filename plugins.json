@@ -19,7 +19,7 @@
   },
   {
     "name": "Time API",
-    "version": "1.0",
+    "version": "Experimental",
     "type": "API",
     "file_name": "TimeAPI.zip"
   },
@@ -61,7 +61,7 @@
   },
   {
     "name": "Reload Map - Venture (WIP)",
-    "version": "1.0",
+    "version": "Invalid",
     "type": "Map",
     "file_name": "VentureMap"
   },
