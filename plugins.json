@@ -100,5 +100,11 @@
     "version": "Experimental",
     "type": "Map",
     "file_name": "NeoTilted"
+  },
+  {
+    "name": "Getaway LTM Stuff",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "GetawayLTM"
   }
 ]
