@@ -107,5 +107,11 @@
     "version": "1.0",
     "type": "Blueprint",
     "file_name": "GetawayLTM"
+  },
+  {
+    "name": "Mothership",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "Mothership"
   }
 ]
