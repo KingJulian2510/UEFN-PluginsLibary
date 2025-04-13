@@ -3,7 +3,8 @@
     "name": "Countdown Manager Device",
     "version": "1.0",
     "type": "Verse",
-    "file_name": "countdown_manager_device.zip"
+    "file_name": "countdown_manager_device.zip",
+    "referenz": ["Countdown"]
   },
   {
     "name": "Athena HUD",
@@ -12,7 +13,7 @@
     "file_name": "AthenaHUD.zip"
   },
   {
-    "name": "UEFN Hidden Props (Blueprints)",
+    "name": "UEFN Hidden Props",
     "version": "1.0",
     "type": "Blueprint",
     "file_name": "HiddenProps.zip"
@@ -48,9 +49,9 @@
     "file_name": "Klombo"
   },
   {
-    "name": "Storm",
+    "name": "Fortnite Storm",
     "version": "1.0",
-    "type": "Blueprint + Material",
+    "type": "Material",
     "file_name": "Storm"
   },
   {
@@ -66,7 +67,7 @@
     "file_name": "VentureMap"
   },
   {
-    "name": "Battle Bus (Animated)",
+    "name": "Animated Battle Bus",
     "version": "1.0",
     "type": "Blueprint",
     "file_name": "BattleBus_Anim"
@@ -90,7 +91,7 @@
     "file_name": "DoomsdayDevice"
   },
   {
-    "name": "Athena Loot Spawner (BR)",
+    "name": "Athena Loot Spawner",
     "version": "1.0",
     "type": "Blueprint",
     "file_name": "AthenaLoot"
