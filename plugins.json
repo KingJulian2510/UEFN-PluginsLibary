@@ -131,5 +131,11 @@
     "version": "1.0",
     "type": "TODM",
     "file_name": "TODM_Base"
+  },
+  {
+    "name": "Chapter 1 TODM",
+    "version": "1.0",
+    "type": "TODM",
+    "file_name": "TODM_CH1"
   }
 ]
