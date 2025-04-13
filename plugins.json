@@ -113,5 +113,23 @@
     "version": "1.0",
     "type": "Blueprint",
     "file_name": "Mothership"
+  },
+  {
+    "name": "Asteria Ice Material",
+    "version": "1.0",
+    "type": "Material",
+    "file_name": "AsteriaIce"
+  },
+  {
+    "name": "Customizable Vending Machine Screen",
+    "version": "1.0",
+    "type": "Material",
+    "file_name": "VendingScreen"
+  },
+  {
+    "name": "TODM Base",
+    "version": "1.0",
+    "type": "TODM",
+    "file_name": "TODM_Base"
   }
 ]
