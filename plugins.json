@@ -137,5 +137,6 @@
     "version": "1.0",
     "type": "TODM",
     "file_name": "TODM_CH1"
+    "referenz": ["TODM_Base"]
   }
 ]
