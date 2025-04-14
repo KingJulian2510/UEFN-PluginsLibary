@@ -9,7 +9,7 @@
   {
     "name": "Athena HUD",
     "version": "1.0",
-    "type": "Blueprint",
+    "type": "UI",
     "file_name": "AthenaHUD.zip"
   },
   {
@@ -205,5 +205,12 @@
     "version": "Unreleased",
     "type": "Blueprint",
     "file_name": "NONE"
+  },
+  {
+    "name": "Validation Assets Mod",
+    "version": "34.30",
+    "type": "Editor Modification",
+    "file_name": "ValidateMod",
+    "require": 4.0
   }
 ]
