@@ -145,5 +145,11 @@
     "type": "TODM",
     "file_name": "TODM_CH2",
     "referenz": ["TODM_Base"]
+  },
+  {
+    "name": "Zero Point Pack",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "ZeroPoints"
   }
 ]
