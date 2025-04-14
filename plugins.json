@@ -134,14 +134,14 @@
   },
   {
     "name": "Chapter 1 TODM",
-    "version": "1.0",
+    "version": "1.1",
     "type": "TODM",
     "file_name": "TODM_CH1",
     "referenz": ["TODM_Base"]
   },
   {
     "name": "Chapter 2 TODM",
-    "version": "1.0",
+    "version": "1.1",
     "type": "TODM",
     "file_name": "TODM_CH2",
     "referenz": ["TODM_Base"]
