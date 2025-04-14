@@ -151,5 +151,11 @@
     "version": "1.0",
     "type": "Blueprint",
     "file_name": "ZeroPoints"
+  },
+  {
+    "name": "Custom Rift Device",
+    "version": "Invalid",
+    "type": "Verse",
+    "file_name": "CustomRift"
   }
 ]
