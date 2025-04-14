@@ -154,8 +154,14 @@
   },
   {
     "name": "Custom Rift Device",
-    "version": "Invalid",
+    "version": "1.0",
     "type": "Verse",
     "file_name": "CustomRift"
+  },
+  {
+    "name": "Player Stats Manager Device",
+    "version": "Unreleased",
+    "type": "Verse",
+    "file_name": "NONE"
   }
 ]
