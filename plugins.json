@@ -147,6 +147,12 @@
     "referenz": ["TODM_Base"]
   },
   {
+    "name": "Chapter 3 TODM",
+    "version": "Unreleased",
+    "type": "TODM",
+    "file_name": "NONE"
+  },
+  {
     "name": "Zero Point Pack",
     "version": "1.0",
     "type": "Blueprint",
@@ -162,6 +168,42 @@
     "name": "Player Stats Manager Device",
     "version": "Unreleased",
     "type": "Verse",
+    "file_name": "NONE"
+  },
+  {
+    "name": "Reload Map - Chapter 2",
+    "version": "Unreleased",
+    "type": "Map",
+    "file_name": "NONE"
+  },
+  {
+    "name": "Athena Map - Season 5",
+    "version": "Unreleased",
+    "type": "Map",
+    "file_name": "NONE"
+  },
+  {
+    "name": "Food Fight LTM Stuff",
+    "version": "Unreleased",
+    "type": "Blueprint",
+    "file_name": "NONE"
+  },
+  {
+    "name": "Kevin + Cubes",
+    "version": "Unreleased",
+    "type": "Blueprint",
+    "file_name": "NONE"
+  },
+  {
+    "name": "Custom Godzilla Rift Portal",
+    "version": "Unreleased",
+    "type": "Blueprint",
+    "file_name": "NONE"
+  },
+  {
+    "name": "Rifts",
+    "version": "Unreleased",
+    "type": "Blueprint",
     "file_name": "NONE"
   }
 ]
