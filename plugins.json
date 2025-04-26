@@ -19,10 +19,10 @@
     "file_name": "HiddenProps.zip"
   },
   {
-    "name": "Real Time Reference",
+    "name": "Time API (LEGACY)",
     "version": "Experimental",
     "type": "API",
-    "file_name": "TimeAPI.zip"
+    "file_name": "Legacy_TimeAPI.zip"
   },
   {
     "name": "Empty Prop",
@@ -212,5 +212,11 @@
     "type": "Editor Modification",
     "file_name": "ValidateMod",
     "require": 4.0
+  },
+  {
+    "name": "Time API",
+    "version": "1.0",
+    "type": "Verse",
+    "file_name": "TimeAPI.zip"
   }
 ]
