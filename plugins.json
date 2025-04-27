@@ -1,7 +1,7 @@
 [
   {
     "name": "Countdown Manager Device",
-    "version": "1.0",
+    "version": "2.0",
     "type": "Verse",
     "file_name": "countdown_manager_device.zip",
     "referenz": ["Countdown"]
@@ -56,7 +56,7 @@
   },
   {
     "name": "Countdown",
-    "version": "2.0",
+    "version": "2.1",
     "type": "Blueprint",
     "file_name": "Countdown"
   },
@@ -215,8 +215,14 @@
   },
   {
     "name": "Time API",
-    "version": "1.0",
+    "version": "2.0",
     "type": "Verse - API",
     "file_name": "TimeAPI.zip"
+  },
+  {
+    "name": "Verse TPS",
+    "version": "1.0",
+    "type": "Verse - Debug",
+    "file_name": "TPS_Device.zip"
   }
 ]
