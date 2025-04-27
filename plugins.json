@@ -133,6 +133,13 @@
     "file_name": "TODM_Base"
   },
   {
+    "name": "Customiziable TODM",
+    "version": "1.0",
+    "type": "TODM",
+    "file_name": "TODM_Custom",
+    "referenz": ["TODM_Base"]
+  },
+  {
     "name": "Chapter 1 TODM",
     "version": "1.1",
     "type": "TODM",
