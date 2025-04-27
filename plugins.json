@@ -4,7 +4,7 @@
     "version": "2.0",
     "type": "Verse",
     "file_name": "countdown_manager_device.zip",
-    "referenz": ["Countdown"]
+    "referenz": ["Countdown","TimeAPI"]
   },
   {
     "name": "Athena HUD",
