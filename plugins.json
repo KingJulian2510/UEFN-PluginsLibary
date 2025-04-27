@@ -231,5 +231,11 @@
     "version": "1.0",
     "type": "Verse - Debug",
     "file_name": "TPS_Device.zip"
+  },
+  {
+    "name": "Custom TODM - Cosmic",
+    "version": "1.0",
+    "type": "Material",
+    "file_name": "CosmicTODM.zip"
   }
 ]
