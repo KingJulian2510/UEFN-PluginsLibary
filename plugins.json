@@ -133,7 +133,7 @@
     "file_name": "TODM_Base"
   },
   {
-    "name": "Customiziable TODM",
+    "name": "Custom TODM",
     "version": "1.0",
     "type": "TODM",
     "file_name": "TODM_Custom",
@@ -235,7 +235,7 @@
   {
     "name": "Custom TODM - Cosmic",
     "version": "1.0",
-    "type": "Material",
+    "type": "Material - TODM",
     "file_name": "CosmicTODM.zip"
   }
 ]
