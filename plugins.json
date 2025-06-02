@@ -237,5 +237,11 @@
     "version": "1.0",
     "type": "Material - TODM",
     "file_name": "CosmicTODM.zip"
+  },
+  {
+    "name": "Material Pin Pad",
+    "version": "1.0",
+    "type": "Verse",
+    "file_name": "CustomPinpad.zip"
   }
 ]
