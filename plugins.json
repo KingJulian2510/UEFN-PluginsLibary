@@ -2,8 +2,8 @@
   {
     "name": "Plugins Libary",
     "version": "4.0",
-    "type": "",
-    "file_name": "PluginsLibary.zip",
+    "type": "Tool",
+    "file_name": "PluginsLibary",
     "require": 5.0
   },
   {
