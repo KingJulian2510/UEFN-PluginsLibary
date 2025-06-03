@@ -1,5 +1,12 @@
 [
   {
+    "name": "Plugins Libary",
+    "version": "4.0",
+    "type": "Misc",
+    "file_name": "plugins_libary.zip",
+    "require": 5.0
+  },
+  {
     "name": "Countdown Manager Device",
     "version": "3.1",
     "type": "Verse",
@@ -212,13 +219,6 @@
     "version": "Unreleased",
     "type": "Blueprint",
     "file_name": "NONE"
-  },
-  {
-    "name": "Validation Assets Mod",
-    "version": "34.30",
-    "type": "Editor Modification",
-    "file_name": "ValidateMod",
-    "require": 4.0
   },
   {
     "name": "Time API",
