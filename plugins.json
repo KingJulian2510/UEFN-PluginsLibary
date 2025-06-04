@@ -4,7 +4,7 @@
     "version": "4.0",
     "type": "Tool",
     "file_name": "PluginsLibary",
-    "require": 5.0
+    "require": 4.0
   },
   {
     "name": "Countdown Manager Device",
@@ -243,5 +243,12 @@
     "version": "1.0",
     "type": "Verse",
     "file_name": "CustomPinpad.zip"
+  },
+  {
+    "name": "All Validation Props - Editor Mod",
+    "version": "4.0",
+    "type": "Tool",
+    "file_name": "ValidationMod",
+    "require": 4.0
   }
 ]
