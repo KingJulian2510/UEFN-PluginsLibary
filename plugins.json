@@ -248,6 +248,7 @@
     "name": "All Validation Props - Editor Mod",
     "version": "4.0",
     "type": "Tool",
+    "creator": "BeastFNCreative",
     "file_name": "ValidateMod",
     "require": 4.0
   }
