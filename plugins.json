@@ -8,7 +8,7 @@
   },
   {
     "name": "Countdown Manager Device",
-    "version": "3.1",
+    "version": "3.2",
     "type": "Verse",
     "file_name": "countdown_manager_device.zip",
     "referenz": ["Countdown","TimeAPI"]
