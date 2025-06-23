@@ -134,6 +134,12 @@
     "file_name": "VendingScreen"
   },
   {
+    "name": "VHS Shader",
+    "version": "1.0",
+    "type": "Material",
+    "file_name": "VHS_Shader"
+  },
+  {
     "name": "TODM Base",
     "version": "1.0",
     "type": "TODM",
