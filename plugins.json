@@ -257,5 +257,11 @@
     "creator": "BeastFNCreative",
     "file_name": "ValidateMod",
     "require": 4.0
+  },
+  {
+    "name": "Timed Activation Device",
+    "version": "1.0",
+    "type": "Verse",
+    "file_name": "TimedActivation"
   }
 ]
