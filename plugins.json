@@ -262,6 +262,7 @@
     "name": "Timed Activation Device",
     "version": "1.0",
     "type": "Verse",
-    "file_name": "TimedActivation"
+    "file_name": "TimedActivation",
+    "require": ["TimeAPI"]
   }
 ]
