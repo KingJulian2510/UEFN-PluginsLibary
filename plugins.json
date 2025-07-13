@@ -44,7 +44,7 @@
     "file_name": "Athena_Landscape_Biomes.zip"
   },
   {
-    "name": "Storm King",
+    "name": "Storm King - Legacy",
     "version": "1.0",
     "type": "Model",
     "file_name": "StormKing"
@@ -264,5 +264,11 @@
     "type": "Verse",
     "file_name": "TimedActivation",
     "require": ["TimeAPI"]
+  },
+  {
+    "name": "Storm King",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "StormKingNew"
   }
 ]
