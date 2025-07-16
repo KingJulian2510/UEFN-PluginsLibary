@@ -10,26 +10,26 @@
     "name": "Countdown Manager Device",
     "version": "3.2",
     "type": "Verse",
-    "file_name": "countdown_manager_device.zip",
+    "file_name": "countdown_manager_device",
     "referenz": ["Countdown","TimeAPI"]
   },
   {
     "name": "Athena HUD",
     "version": "1.0",
     "type": "UI",
-    "file_name": "AthenaHUD.zip"
+    "file_name": "AthenaHUD"
   },
   {
     "name": "UEFN Hidden Props",
     "version": "1.0",
     "type": "Blueprint",
-    "file_name": "HiddenProps.zip"
+    "file_name": "HiddenProps"
   },
   {
     "name": "Time API (LEGACY)",
     "version": "Experimental",
     "type": "API",
-    "file_name": "Legacy_TimeAPI.zip"
+    "file_name": "Legacy_TimeAPI"
   },
   {
     "name": "Empty Prop",
@@ -41,7 +41,7 @@
     "name": "Athena Biome Landscape Materials",
     "version": "1.0",
     "type": "Material",
-    "file_name": "Athena_Landscape_Biomes.zip"
+    "file_name": "Athena_Landscape_Biomes"
   },
   {
     "name": "Klombo",
@@ -206,25 +206,25 @@
     "name": "Time API",
     "version": "2.1",
     "type": "Verse - API",
-    "file_name": "TimeAPI.zip"
+    "file_name": "TimeAPI"
   },
   {
     "name": "Verse TPS",
     "version": "1.0",
     "type": "Verse - Debug",
-    "file_name": "TPS_Device.zip"
+    "file_name": "TPS_Device"
   },
   {
     "name": "Custom TODM - Cosmic",
     "version": "1.0",
     "type": "Material - TODM",
-    "file_name": "CosmicTODM.zip"
+    "file_name": "CosmicTODM"
   },
   {
     "name": "Material Pin Pad",
     "version": "1.0",
     "type": "Verse",
-    "file_name": "CustomPinpad.zip"
+    "file_name": "CustomPinpad"
   },
   {
     "name": "All Validation Props - Editor Mod",
