@@ -252,5 +252,11 @@
     "version": "2.0",
     "type": "Blueprint - Sounds - Animations",
     "file_name": "StormKingNew"
+  },
+  {
+    "name": "Mega City Roads",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "MegaCityRoads"
   }
 ]
