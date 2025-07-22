@@ -252,5 +252,11 @@
     "version": "1.0",
     "type": "Blueprint",
     "file_name": "MegaCityRoads"
+  },
+  {
+    "name": "Island Portal (Creative)",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "IslandPortal"
   }
 ]
