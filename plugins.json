@@ -275,7 +275,7 @@
     "name": "Overlay Test",
     "version": "1.0",
     "type": "Overlay",
-    "file_name": "Galaxy"
+    "file_name": "countdown_manager_device"
   }
 
 ]
