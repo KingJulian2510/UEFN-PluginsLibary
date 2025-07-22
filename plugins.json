@@ -1,7 +1,7 @@
 [
   {
     "name": "Plugins Libary",
-    "version": "5.0",
+    "version": "6.0",
     "type": "Tool",
     "file_name": "PluginsLibary",
     "require": 4.0
