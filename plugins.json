@@ -266,9 +266,16 @@
     "file_name": "Galaxy"
   },
   {
-    "name": "TEST",
-    "version": "000",
+    "name": "Overlay Main Function",
+    "version": "1.0",
+    "type": "Overlay - Function",
+    "file_name": "OverlayMain"
+  },
+  {
+    "name": "Overlay Test",
+    "version": "1.0",
     "type": "Overlay",
-    "file_name": "TEST"
+    "file_name": "Galaxy"
   }
+
 ]
