@@ -275,7 +275,8 @@
     "name": "Galaxy Overlay",
     "version": "1.0",
     "type": "Overlay",
-    "file_name": "GalaxyOverlay"
+    "file_name": "GalaxyOverlay",
+    "referenz": ["Galaxy"]
   }
 
 ]
