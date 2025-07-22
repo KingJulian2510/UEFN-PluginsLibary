@@ -272,10 +272,10 @@
     "file_name": "OverlayMain"
   },
   {
-    "name": "Overlay Test",
+    "name": "Galaxy Overlay",
     "version": "1.0",
     "type": "Overlay",
-    "file_name": "countdown_manager_device"
+    "file_name": "GalaxyOverlay"
   }
 
 ]
