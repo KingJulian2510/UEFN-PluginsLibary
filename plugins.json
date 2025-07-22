@@ -258,5 +258,11 @@
     "version": "1.0",
     "type": "Blueprint",
     "file_name": "IslandPortal"
+  },
+  {
+    "name": "Galaxy",
+    "version": "1.0",
+    "type": "Function - Material",
+    "file_name": "Galaxy"
   }
 ]
