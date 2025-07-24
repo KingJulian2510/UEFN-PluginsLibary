@@ -239,7 +239,7 @@
     "version": "1.0",
     "type": "Verse",
     "file_name": "TimedActivation",
-    "require": ["TimeAPI"]
+    "referenz": ["TimeAPI"]
   },
   {
     "name": "Storm King",
@@ -295,5 +295,18 @@
     "version": "1.0",
     "type": "Blueprint",
     "file_name": "StormCloudsOld"
+  },
+  {
+    "name": "Custom Vending Machine Monitor (CVMM)",
+    "version": "1.0",
+    "type": "Blueprint - Mesh",
+    "file_name": "CVMM",
+    "referenz": ["Galaxy", "GlintUI"]
+  },
+  {
+    "name": "Glint (UI Only)",
+    "version": "1.0",
+    "type": "Function",
+    "file_name": "GlintUI"
   }
 ]
