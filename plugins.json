@@ -305,19 +305,7 @@
   },
   {
     "name": "Glint (UI Only)",
-    "version": "1.0",
-    "type": "Function",
-    "file_name": "GlintUI"
-  },
-  {
-    "name": "Test Plugin",
-    "version": "1.0",
-    "type": "Function",
-    "file_name": "GlintUI"
-  },
-  {
-    "name": "Brawl Stars Plugin",
-    "version": "1.0",
+    "version": "1.1",
     "type": "Function",
     "file_name": "GlintUI"
   }
