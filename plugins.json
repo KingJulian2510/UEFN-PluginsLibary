@@ -308,23 +308,5 @@
     "version": "1.1",
     "type": "Function",
     "file_name": "GlintUI"
-  },
-  {
-    "name": "Das hier ist ein Beispiel",
-    "version": "1.0",
-    "type": "Function",
-    "file_name": "GlintUI"
-  },
-  {
-    "name": "Das hier ist ein Beispiel 2",
-    "version": "2.0",
-    "type": "Function",
-    "file_name": "GlintUI"
-  },
-  {
-    "name": "Das hier ist ein Beispiel 3",
-    "version": "3.0",
-    "type": "Function",
-    "file_name": "GlintUI"
   }
 ]
