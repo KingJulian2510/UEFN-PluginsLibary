@@ -255,7 +255,7 @@
   },
   {
     "name": "Island Portal (Creative)",
-    "version": "1.1",
+    "version": "1.0",
     "type": "Blueprint",
     "file_name": "IslandPortal"
   },
@@ -306,6 +306,24 @@
   {
     "name": "Glint (UI Only)",
     "version": "1.1",
+    "type": "Function",
+    "file_name": "GlintUI"
+  },
+  {
+    "name": "Das hier ist ein Beispiel",
+    "version": "1.0",
+    "type": "Function",
+    "file_name": "GlintUI"
+  },
+  {
+    "name": "Das hier ist ein Beispiel 2",
+    "version": "2.0",
+    "type": "Function",
+    "file_name": "GlintUI"
+  },
+  {
+    "name": "Das hier ist ein Beispiel 3",
+    "version": "3.0",
     "type": "Function",
     "file_name": "GlintUI"
   }
