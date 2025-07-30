@@ -328,5 +328,12 @@
     "type": "Blueprint",
     "creator": "Hoellaschrauer",
     "file_name": "SquareVending"
+  },
+  {
+    "name": "Apollo HUD",
+    "version": "1.0",
+    "creator": "Hoellaschrauer",
+    "type": "UI",
+    "file_name": "ApolloHUD"
   }
 ]
