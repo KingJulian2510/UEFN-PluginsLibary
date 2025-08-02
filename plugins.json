@@ -361,5 +361,11 @@
     "version": "1.0",
     "type": "Sounds",
     "file_name": "StormKingSounds"
+  },
+  {
+    "name": "Tentacle Prop (Rotten & Fresh)",
+    "version": "1.0",
+    "type": "Event - Blueprint",
+    "file_name": "Tentacle"
   }
 ]
