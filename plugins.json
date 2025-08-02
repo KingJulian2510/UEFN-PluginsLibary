@@ -57,7 +57,7 @@
   },
   {
     "name": "Countdown",
-    "version": "3.0",
+    "version": "4.0",
     "type": "Blueprint",
     "file_name": "Countdown"
   },
@@ -243,9 +243,10 @@
   },
   {
     "name": "Storm King",
-    "version": "2.0",
-    "type": "Blueprint - Sounds - Animations",
+    "version": "4.0",
+    "type": "Blueprint - Animations",
     "file_name": "StormKingNew"
+    "referenz": ["AthenaCurveAtlas", "StormKingFX"]
   },
   {
     "name": "Mega City Roads",
@@ -311,7 +312,7 @@
   },
   {
     "name": "Countdown (Geode)",
-    "version": "1.1",
+    "version": "1.2",
     "type": "Blueprint",
     "file_name": "CountdownGeode"
   },
@@ -335,5 +336,30 @@
     "creator": "Hoellaschrauer",
     "type": "UI",
     "file_name": "ApolloHUD"
+  },
+  {
+    "name": "Storm King FX",
+    "version": "1.0",
+    "creator": "Yue Jia",
+    "type": "Function",
+    "file_name": "StormKingFX"
+  },
+  {
+    "name": "Athena Curve Atlas",
+    "version": "1.0",
+    "type": "Atlas",
+    "file_name": "AthenaCurveAtlas"
+  },
+  {
+    "name": "Loop Bubble (CH6)",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "LoopBubble"
+  },
+  {
+    "name": "Storm King Sounds",
+    "version": "1.0",
+    "type": "Sounds",
+    "file_name": "StormKingSounds"
   }
 ]
