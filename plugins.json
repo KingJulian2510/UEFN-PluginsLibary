@@ -245,7 +245,7 @@
     "name": "Storm King",
     "version": "4.0",
     "type": "Blueprint - Animations",
-    "file_name": "StormKingNew"
+    "file_name": "StormKingNew",
     "referenz": ["AthenaCurveAtlas", "StormKingFX"]
   },
   {
