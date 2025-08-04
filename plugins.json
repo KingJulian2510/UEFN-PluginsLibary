@@ -1,9 +1,0 @@
-[
-  {
-    "name": "Plugins Libary",
-    "version": "7.0",
-    "type": "Tool",
-    "file_name": "PluginsLibary",
-    "require": 4.0
-  }
-]
