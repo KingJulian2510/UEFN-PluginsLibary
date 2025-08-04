@@ -1,0 +1,371 @@
+[
+  {
+    "name": "Plugins Libary",
+    "version": "6.4",
+    "type": "Tool",
+    "file_name": "PluginsLibary",
+    "require": 4.0
+  },
+  {
+    "name": "Countdown Manager Device",
+    "version": "4.0",
+    "type": "Verse",
+    "file_name": "countdown_manager_device",
+    "referenz": ["Countdown","TimeAPI"]
+  },
+  {
+    "name": "Athena HUD",
+    "version": "1.0",
+    "type": "UI",
+    "file_name": "AthenaHUD"
+  },
+  {
+    "name": "UEFN Hidden Props",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "HiddenProps"
+  },
+  {
+    "name": "Time API (LEGACY)",
+    "version": "Experimental",
+    "type": "API",
+    "file_name": "Legacy_TimeAPI"
+  },
+  {
+    "name": "Empty Prop",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "EmptyProp"
+  },
+  {
+    "name": "Athena Biome Landscape Materials",
+    "version": "1.0",
+    "type": "Material",
+    "file_name": "Athena_Landscape_Biomes"
+  },
+  {
+    "name": "Klombo",
+    "version": "1.1",
+    "type": "Model",
+    "file_name": "Klombo"
+  },
+  {
+    "name": "Fortnite Storm",
+    "version": "1.0",
+    "type": "Material",
+    "file_name": "Storm"
+  },
+  {
+    "name": "Countdown",
+    "version": "4.0",
+    "type": "Blueprint",
+    "file_name": "Countdown"
+  },
+  {
+    "name": "Animated Battle Bus",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "BattleBus_Anim"
+  },
+  {
+    "name": "Stormshield Barrier",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "StormshieldBarrier"
+  },
+  {
+    "name": "Greasy Grove Ice",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "GreasyGroveIce"
+  },
+  {
+    "name": "Doomsday Device",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "DoomsdayDevice"
+  },
+  {
+    "name": "Athena Loot Spawner",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "AthenaLoot"
+  },
+  {
+    "name": "Neo Tilted",
+    "version": "Experimental",
+    "type": "Map",
+    "file_name": "NeoTilted"
+  },
+  {
+    "name": "Getaway LTM Stuff",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "GetawayLTM"
+  },
+  {
+    "name": "Mothership",
+    "version": "1.1",
+    "type": "Blueprint",
+    "file_name": "Mothership"
+  },
+  {
+    "name": "Asteria Ice Material",
+    "version": "1.0",
+    "type": "Material",
+    "file_name": "AsteriaIce"
+  },
+  {
+    "name": "Customizable Vending Machine Screen",
+    "version": "1.0",
+    "type": "Material",
+    "file_name": "VendingScreen"
+  },
+  {
+    "name": "VHS Shader",
+    "version": "1.0",
+    "type": "Material",
+    "file_name": "VHS_Shader"
+  },
+  {
+    "name": "TODM Base",
+    "version": "1.0",
+    "type": "TODM",
+    "file_name": "TODM_Base"
+  },
+  {
+    "name": "Custom TODM",
+    "version": "1.0",
+    "type": "TODM",
+    "file_name": "TODM_Custom",
+    "referenz": ["TODM_Base"]
+  },
+  {
+    "name": "Chapter 1 TODM",
+    "version": "1.1",
+    "type": "TODM",
+    "file_name": "TODM_CH1",
+    "referenz": ["TODM_Base"]
+  },
+  {
+    "name": "Chapter 2 TODM",
+    "version": "1.1",
+    "type": "TODM",
+    "file_name": "TODM_CH2",
+    "referenz": ["TODM_Base"]
+  },
+  {
+    "name": "Chapter 3 TODM",
+    "version": "Unreleased",
+    "type": "TODM",
+    "file_name": "NONE"
+  },
+  {
+    "name": "Zero Point Pack",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "ZeroPoints"
+  },
+  {
+    "name": "Custom Rift Device",
+    "version": "1.0",
+    "type": "Verse",
+    "file_name": "CustomRift"
+  },
+  {
+    "name": "Player Stats Manager Device",
+    "version": "Unreleased",
+    "type": "Verse",
+    "file_name": "NONE"
+  },
+  {
+    "name": "Food Fight LTM Stuff",
+    "version": "Unreleased",
+    "type": "Blueprint",
+    "file_name": "NONE"
+  },
+  {
+    "name": "Kevin + Cubes",
+    "version": "Unreleased",
+    "type": "Blueprint",
+    "file_name": "NONE"
+  },
+  {
+    "name": "Custom Godzilla Rift Portal",
+    "version": "Unreleased",
+    "type": "Blueprint",
+    "file_name": "NONE"
+  },
+  {
+    "name": "Rifts",
+    "version": "Unreleased",
+    "type": "Blueprint",
+    "file_name": "NONE"
+  },
+  {
+    "name": "Time API",
+    "version": "2.1",
+    "type": "Verse - API",
+    "file_name": "TimeAPI"
+  },
+  {
+    "name": "Verse TPS",
+    "version": "1.0",
+    "type": "Verse - Debug",
+    "file_name": "TPS_Device"
+  },
+  {
+    "name": "Custom TODM - Cosmic",
+    "version": "1.0",
+    "type": "Material - TODM",
+    "file_name": "CosmicTODM"
+  },
+  {
+    "name": "Material Pin Pad",
+    "version": "1.0",
+    "type": "Verse",
+    "file_name": "CustomPinpad"
+  },
+  {
+    "name": "All Validation Props - Editor Mod",
+    "version": "4.0",
+    "type": "Tool",
+    "creator": "BeastFNCreative",
+    "file_name": "ValidateMod",
+    "require": 4.0
+  },
+  {
+    "name": "Timed Activation Device",
+    "version": "1.0",
+    "type": "Verse",
+    "file_name": "TimedActivation",
+    "referenz": ["TimeAPI"]
+  },
+  {
+    "name": "Storm King",
+    "version": "4.0",
+    "type": "Blueprint - Animations",
+    "file_name": "StormKingNew",
+    "referenz": ["AthenaCurveAtlas", "StormKingFX"]
+  },
+  {
+    "name": "Mega City Roads",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "MegaCityRoads"
+  },
+  {
+    "name": "Island Portal (Creative)",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "IslandPortal"
+  },
+  {
+    "name": "Galaxy",
+    "version": "1.1",
+    "type": "Function - Material",
+    "file_name": "Galaxy"
+  },
+  {
+    "name": "Overlay Main Function",
+    "version": "1.0",
+    "type": "Overlay - Function",
+    "file_name": "OverlayMain"
+  },
+  {
+    "name": "Galaxy Overlay",
+    "version": "1.0",
+    "type": "Overlay",
+    "file_name": "GalaxyOverlay",
+    "referenz": ["Galaxy"]
+  },
+  {
+    "name": "Animated Triangles",
+    "version": "1.0",
+    "type": "Function",
+    "file_name": "AnimatedTriangles"
+  },
+  {
+    "name": "Storm Clouds (New)",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "StormCloudsNew"
+  },
+  {
+    "name": "Storm Clouds (Old)",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "StormCloudsOld"
+  },
+  {
+    "name": "Custom Vending Machine Monitor (CVMM)",
+    "version": "1.0",
+    "type": "Blueprint - Mesh",
+    "file_name": "CVMM",
+    "referenz": ["Galaxy", "GlintUI"]
+  },
+  {
+    "name": "Glint (UI Only)",
+    "version": "1.1",
+    "type": "Function",
+    "file_name": "GlintUI"
+  },
+  {
+    "name": "Countdown (Geode)",
+    "version": "1.2",
+    "type": "Blueprint",
+    "file_name": "CountdownGeode"
+  },
+  {
+    "name": "Geode Event Sounds",
+    "version": "1.0",
+    "type": "Sounds",
+    "creator": "Hoellaschrauer",
+    "file_name": "GeodeSounds"
+  },
+  {
+    "name": "Square Vending Machine",
+    "version": "1.0",
+    "type": "Blueprint",
+    "creator": "Hoellaschrauer",
+    "file_name": "SquareVending"
+  },
+  {
+    "name": "Apollo HUD",
+    "version": "1.0",
+    "creator": "Hoellaschrauer",
+    "type": "UI",
+    "file_name": "ApolloHUD"
+  },
+  {
+    "name": "Storm King FX",
+    "version": "1.0",
+    "creator": "Yue Jia",
+    "type": "Function",
+    "file_name": "StormKingFX"
+  },
+  {
+    "name": "Athena Curve Atlas",
+    "version": "1.0",
+    "type": "Atlas",
+    "file_name": "AthenaCurveAtlas"
+  },
+  {
+    "name": "Loop Bubble (CH6)",
+    "version": "1.0",
+    "type": "Blueprint",
+    "file_name": "LoopBubble"
+  },
+  {
+    "name": "Storm King Sounds",
+    "version": "1.0",
+    "type": "Sounds",
+    "file_name": "StormKingSounds"
+  },
+  {
+    "name": "Tentacle Prop (Rotten & Fresh)",
+    "version": "1.0",
+    "type": "Event - Blueprint",
+    "file_name": "Tentacle"
+  }
+]
