@@ -1,10 +1,14 @@
 [
   {
     "name": "Plugins Libary",
-    "version": "7.0",
+    "version": "7.1",
     "type": "Software Update",
     "file_name": "PluginsLibary",
-    "require": 4.0
+    "require": 4.0,
+    "referenz": [
+      ""
+    ],
+    "creator": "KingJulian"
   },
   {
     "name": "Countdown Manager Device",
