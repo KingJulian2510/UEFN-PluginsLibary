@@ -390,5 +390,16 @@
     "version": "1.0",
     "type": "Event - Blueprint",
     "file_name": "Tentacle"
+  },
+  {
+    "name": "Rift Mesh",
+    "version": "1.0",
+    "type": "Mesh",
+    "referenz": [
+      ""
+    ],
+    "creator": "KingJulian",
+    "file_name": "RiftMesh",
+    "require": 7.1
   }
 ]
