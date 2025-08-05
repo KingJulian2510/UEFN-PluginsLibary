@@ -386,16 +386,5 @@
     "version": "1.0",
     "type": "Event - Blueprint",
     "file_name": "Tentacle"
-  },
-  {
-    "name": "Wii U",
-    "version": "2.0",
-    "type": "Blueprint",
-    "referenz": [
-      ""
-    ],
-    "creator": "Nintendo",
-    "file_name": "WiiU",
-    "require": 7.1
   }
 ]
