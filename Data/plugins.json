@@ -11,10 +11,7 @@
     "version": "4.0",
     "type": "Verse",
     "file_name": "countdown_manager_device",
-    "referenz": [
-      "Countdown",
-      "TimeAPI"
-    ]
+    "referenz": ["Countdown","TimeAPI"]
   },
   {
     "name": "Athena HUD",
@@ -141,27 +138,21 @@
     "version": "1.0",
     "type": "TODM",
     "file_name": "TODM_Custom",
-    "referenz": [
-      "TODM_Base"
-    ]
+    "referenz": ["TODM_Base"]
   },
   {
     "name": "Chapter 1 TODM",
     "version": "1.1",
     "type": "TODM",
     "file_name": "TODM_CH1",
-    "referenz": [
-      "TODM_Base"
-    ]
+    "referenz": ["TODM_Base"]
   },
   {
     "name": "Chapter 2 TODM",
     "version": "1.1",
     "type": "TODM",
     "file_name": "TODM_CH2",
-    "referenz": [
-      "TODM_Base"
-    ]
+    "referenz": ["TODM_Base"]
   },
   {
     "name": "Chapter 3 TODM",
@@ -248,19 +239,14 @@
     "version": "1.0",
     "type": "Verse",
     "file_name": "TimedActivation",
-    "referenz": [
-      "TimeAPI"
-    ]
+    "referenz": ["TimeAPI"]
   },
   {
     "name": "Storm King",
     "version": "4.0",
     "type": "Blueprint - Animations",
     "file_name": "StormKingNew",
-    "referenz": [
-      "AthenaCurveAtlas",
-      "StormKingFX"
-    ]
+    "referenz": ["AthenaCurveAtlas", "StormKingFX"]
   },
   {
     "name": "Mega City Roads",
@@ -291,9 +277,7 @@
     "version": "1.0",
     "type": "Overlay",
     "file_name": "GalaxyOverlay",
-    "referenz": [
-      "Galaxy"
-    ]
+    "referenz": ["Galaxy"]
   },
   {
     "name": "Animated Triangles",
@@ -318,10 +302,7 @@
     "version": "1.0",
     "type": "Blueprint - Mesh",
     "file_name": "CVMM",
-    "referenz": [
-      "Galaxy",
-      "GlintUI"
-    ]
+    "referenz": ["Galaxy", "GlintUI"]
   },
   {
     "name": "Glint (UI Only)",
@@ -386,16 +367,5 @@
     "version": "1.0",
     "type": "Event - Blueprint",
     "file_name": "Tentacle"
-  },
-  {
-    "name": "Plugins Creator Test",
-    "version": "",
-    "type": "DevTest",
-    "referenz": [
-      ""
-    ],
-    "creator": "KingJulian",
-    "file_name": "PluginsCreatorTest",
-    "require": 1.0
   }
 ]
