@@ -3,10 +3,5 @@
         "module": "Plugins Creator",
         "version": "Beta",
         "description": "Kann Plugins für die Plugins Libary!"
-    },
-    {
-        "module": "Plugins Libary",
-        "version": "?",
-        "description": "Wird genutzt um Plugins und mehr zu injecten!"
     }
 ]
