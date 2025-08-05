@@ -386,16 +386,5 @@
     "version": "1.0",
     "type": "Event - Blueprint",
     "file_name": "Tentacle"
-  },
-  {
-    "name": "Plugin Creation Test 2",
-    "version": "2.0",
-    "type": "Develop Test",
-    "referenz": [
-      "{}"
-    ],
-    "creator": "KingJulian",
-    "file_name": "PluginCreationTest2",
-    "require": 7.1
   }
 ]
