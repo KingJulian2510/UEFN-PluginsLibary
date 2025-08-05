@@ -1,12 +1,12 @@
 [
   {
     "name": "Plugins Libary",
-    "version": "7.1",
+    "version": "7.11",
     "type": "Software Update",
     "file_name": "PluginsLibary",
     "require": 4.0,
     "referenz": [
-      ""
+      "{}"
     ],
     "creator": "KingJulian"
   },
