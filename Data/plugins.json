@@ -389,10 +389,10 @@
   },
   {
     "name": "Plugin Creation Test 2",
-    "version": "1.0",
-    "type": "Blueprint",
+    "version": "2.0",
+    "type": "Develop Test",
     "referenz": [
-      ""
+      "{}"
     ],
     "creator": "KingJulian",
     "file_name": "PluginCreationTest2",
