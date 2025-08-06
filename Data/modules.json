@@ -3,5 +3,10 @@
         "module": "Plugins Creator",
         "version": "Beta",
         "description": "Kann Plugins für die Plugins Libary!"
+    },
+    {
+        "module": "Image Swapper",
+        "version": "1.0",
+        "description": "Ermöglicht es Bilder zu swappen welche ingame geladen werden!"
     }
 ]
