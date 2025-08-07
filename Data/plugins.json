@@ -64,9 +64,13 @@
   },
   {
     "name": "Countdown",
-    "version": "4.0",
+    "version": "4.1",
     "type": "Blueprint",
-    "file_name": "Countdown"
+    "file_name": "Countdown",
+    "referenz": [
+      ""
+    ],
+    "creator": "KingJulian"
   },
   {
     "name": "Animated Battle Bus",
@@ -400,6 +404,17 @@
     ],
     "creator": "KingJulian",
     "file_name": "RiftMesh",
+    "require": 7.1
+  },
+  {
+    "name": "Sprite Material",
+    "version": "1.0",
+    "type": "Material",
+    "referenz": [
+      "GlintUI"
+    ],
+    "creator": "KingJulian",
+    "file_name": "SpriteMaterial",
     "require": 7.1
   }
 ]
