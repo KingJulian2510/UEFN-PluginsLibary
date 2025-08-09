@@ -416,5 +416,41 @@
     "creator": "KingJulian",
     "file_name": "SpriteMaterial",
     "require": 7.1
+  },
+  {
+    "name": "Figment Blast Off VFX",
+    "version": "1.0",
+    "type": "VFX",
+    "referenz": [
+      ""
+    ],
+    "creator": "KingJulian",
+    "file_name": "FigmentBlastOffVFX",
+    "require": 7.1
+  },
+  {
+    "name": "Figment Blast Rocket",
+    "version": "1.0",
+    "type": "Blueprint",
+    "referenz": [
+      ""
+    ],
+    "creator": "KingJulian",
+    "file_name": "FigmentBlastRocket",
+    "require": 7.1
+  },
+  {
+    "name": "Figment Blast Off Event",
+    "version": "1.0",
+    "type": "Pack",
+    "referenz": [
+      "FigmentBlastRocket",
+      "FigmentBlastOffVFX",
+      "CountdownGeode",
+      "GeodeSounds"
+    ],
+    "creator": "KingJulian",
+    "file_name": "FigmentBlastOffEvent",
+    "require": 7.1
   }
 ]
