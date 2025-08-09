@@ -404,7 +404,7 @@
     ],
     "creator": "KingJulian",
     "file_name": "RiftMesh",
-    "require": 7.1
+    "require": 7.0
   },
   {
     "name": "Sprite Material",
@@ -415,7 +415,7 @@
     ],
     "creator": "KingJulian",
     "file_name": "SpriteMaterial",
-    "require": 7.1
+    "require": 7.0
   },
   {
     "name": "Figment Blast Off VFX",
@@ -426,7 +426,7 @@
     ],
     "creator": "KingJulian",
     "file_name": "FigmentBlastOffVFX",
-    "require": 7.1
+    "require": 7.0
   },
   {
     "name": "Figment Blast Rocket",
@@ -437,7 +437,7 @@
     ],
     "creator": "KingJulian",
     "file_name": "FigmentBlastRocket",
-    "require": 7.1
+    "require": 7.0
   },
   {
     "name": "Figment Blast Off Event",
@@ -451,6 +451,6 @@
     ],
     "creator": "KingJulian",
     "file_name": "FigmentBlastOffEvent",
-    "require": 7.1
+    "require": 7.0
   }
 ]
