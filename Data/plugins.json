@@ -463,5 +463,16 @@
     "creator": "KingJulian",
     "file_name": "CustomPickupMaterial",
     "require": 7.1
+  },
+  {
+    "name": "Custom Item System (CIS)",
+    "version": "1.0",
+    "type": "Blueprint",
+    "referenz": [
+      ""
+    ],
+    "creator": "KingJulian",
+    "file_name": "CustomItemSystem(CIS)",
+    "require": 7.1
   }
 ]
