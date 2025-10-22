@@ -452,5 +452,16 @@
     "creator": "KingJulian",
     "file_name": "FigmentBlastOffEvent",
     "require": 7.0
+  },
+  {
+    "name": "Custom Pickup Material",
+    "version": "1.0",
+    "type": "Material",
+    "referenz": [
+      ""
+    ],
+    "creator": "KingJulian",
+    "file_name": "CustomPickupMaterial",
+    "require": 7.1
   }
 ]
