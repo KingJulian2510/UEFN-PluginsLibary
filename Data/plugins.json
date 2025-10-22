@@ -462,7 +462,7 @@
     ],
     "creator": "KingJulian",
     "file_name": "CustomPickupMaterial",
-    "require": 7.1
+    "require": 7.0
   },
   {
     "name": "Custom Item System (CIS)",
@@ -473,6 +473,6 @@
     ],
     "creator": "KingJulian",
     "file_name": "CustomItemSystem(CIS)",
-    "require": 7.1
+    "require": 7.0
   }
 ]
