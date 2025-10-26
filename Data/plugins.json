@@ -1,5 +1,13 @@
 [
   {
+    "name": "Plugins Libary V2",
+    "version": "1.0",
+    "type": "Software",
+    "file_name": "PluginsLibary",
+    "require": 2147483647.0,
+    "creator": "KingJulian"
+  },
+  {
     "name": "Plugins Libary",
     "version": "7.11",
     "type": "Software Update",
