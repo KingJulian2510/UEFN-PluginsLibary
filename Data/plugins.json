@@ -13,6 +13,7 @@
     "type": "Software Update",
     "file_name": "PluginsLibary",
     "require": 4.0,
+    "forceAction": "disable",
     "referenz": [
       "{}"
     ],
