@@ -45,12 +45,14 @@
     "name": "Time API (LEGACY)",
     "version": "Experimental",
     "type": "API",
+    "forceAction": "disable",
     "file_name": "Legacy_TimeAPI"
   },
   {
     "name": "Empty Prop",
     "version": "1.0",
     "type": "Blueprint",
+    "forceAction": "disable",
     "file_name": "EmptyProp"
   },
   {
@@ -183,6 +185,7 @@
   {
     "name": "Chapter 3 TODM",
     "version": "Unreleased",
+    "forceAction": "disable",
     "type": "TODM",
     "file_name": "NONE"
   },
@@ -201,12 +204,14 @@
   {
     "name": "Player Stats Manager Device",
     "version": "Unreleased",
+    "forceAction": "disable",
     "type": "Verse",
     "file_name": "NONE"
   },
   {
     "name": "Food Fight LTM Stuff",
     "version": "Unreleased",
+    "forceAction": "disable",
     "type": "Blueprint",
     "file_name": "NONE"
   },
@@ -214,17 +219,20 @@
     "name": "Kevin + Cubes",
     "version": "Unreleased",
     "type": "Blueprint",
+    "forceAction": "disable",
     "file_name": "NONE"
   },
   {
     "name": "Custom Godzilla Rift Portal",
     "version": "Unreleased",
+    "forceAction": "disable",
     "type": "Blueprint",
     "file_name": "NONE"
   },
   {
     "name": "Rifts",
     "version": "Unreleased",
+    "forceAction": "disable",
     "type": "Blueprint",
     "file_name": "NONE"
   },
