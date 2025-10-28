@@ -5,7 +5,7 @@
     "type": "Software",
     "file_name": "PluginsLibaryV2",
     "require": 2147483647.0,
-    "forceAction": "update",
+    "forceAction": "disable",
     "creator": "KingJulian"
   },
   {
