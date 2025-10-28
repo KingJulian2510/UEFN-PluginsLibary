@@ -1,7 +1,7 @@
 [
   {
     "name": "Plugins Libary V2",
-    "version": "1.0",
+    "version": "1.0.2",
     "type": "Software",
     "file_name": "PluginsLibaryV2",
     "require": 2147483647.0,
