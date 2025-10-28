@@ -3,9 +3,9 @@
     "name": "Plugins Libary V2",
     "version": "1.0.2",
     "type": "Software",
-    "file_name": "PluginsLibaryV2",
+    "link": "https://drive.google.com/uc?export=download&id=1A3DZuUKBEAOPDg7UeYMbtt02reLIOeov",
     "require": 2147483647.0,
-    "forceAction": "disable",
+    "forceAction": "update",
     "creator": "KingJulian"
   },
   {
