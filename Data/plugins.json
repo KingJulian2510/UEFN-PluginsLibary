@@ -269,6 +269,7 @@
     "creator": "BeastFNCreative",
     "link": "https://github.com/BeastFNCreative/uefn-mods",
     "require": 4.0
+    "icon": "ValidateMod",
   },
   {
     "name": "Timed Activation Device",
