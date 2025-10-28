@@ -267,7 +267,7 @@
     "type": "Tool",
     "forceAction": "open_link",
     "creator": "BeastFNCreative",
-    "file_name": "ValidateMod",
+    "link": "https://github.com/BeastFNCreative/uefn-mods",
     "require": 4.0
   },
   {
