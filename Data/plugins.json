@@ -263,8 +263,8 @@
   },
   {
     "name": "All Validation Props - Editor Mod",
-    "version": "4.0",
-    "type": "Tool",
+    "version": "Stable",
+    "type": "Tool - Link",
     "forceAction": "open_link",
     "creator": "BeastFNCreative",
     "link": "https://github.com/BeastFNCreative/uefn-mods",
