@@ -4,7 +4,7 @@
     "version": "1.0.2",
     "type": "Software",
     "file_name": "PluginsLibaryV2",
-    "require": 2147483647.1,
+    "require": 2147483647.0,
     "forceAction": "disable",
     "creator": "KingJulian"
   },
