@@ -517,5 +517,12 @@
     "type": "Blueprint",
     "creator": "KingJulian",
     "file_name": "WaterZone"
+  },
+  {
+    "name": "Chapter 4 Lumen Manager",
+    "version": "1.0",
+    "type": "Blueprint",
+    "creator": "KingJulian",
+    "file_name": "LumenCH4"
   }
 ]
