@@ -485,13 +485,47 @@
   },
   {
     "name": "Custom Item System (CIS)",
-    "version": "1.1",
-    "type": "Scene Graph, Verse",
+    "version": "2.0",
+    "type": "Scene Graph - Verse",
     "referenz": [
       "GlintUI"
     ],
     "creator": "KingJulian",
-    "file_name": "CustomItemSystem(CIS)",
+    "file_name": "CIS",
+    "require": 7.0
+  },
+  {
+    "name": "CIS - Vending Machine",
+    "version": "1.0",
+    "type": "CIS",
+    "referenz": [
+      "CIS"
+    ],
+    "creator": "KingJulian",
+    "file_name": "CIS_CIVM",
+    "require": 7.0
+  },
+  {
+    "name": "CIS - Input Event",
+    "version": "1.0",
+    "type": "CIS",
+    "referenz": [
+      "CIS",
+      "CVMM",
+    ],
+    "creator": "KingJulian",
+    "file_name": "CIS_InputSystem",
+    "require": 7.0
+  },
+  {
+    "name": "CIS - Pickup Indicator",
+    "version": "1.0",
+    "type": "CIS",
+    "referenz": [
+      "CIS"
+    ],
+    "creator": "KingJulian",
+    "file_name": "CIS_PickupIndicator",
     "require": 7.0
   }
 ]
