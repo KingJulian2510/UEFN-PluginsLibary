@@ -510,5 +510,12 @@
     "creator": "KingJulian",
     "file_name": "CIS_PickupIndicator",
     "require": 7.0
+  },
+  {
+    "name": "Water Storm (CH2)",
+    "version": "1.0",
+    "type": "Blueprint",
+    "creator": "KingJulian",
+    "file_name": "WaterZone"
   }
 ]
