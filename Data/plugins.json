@@ -15,9 +15,6 @@
     "file_name": "PluginsLibary",
     "require": 4.0,
     "forceAction": "disable",
-    "referenz": [
-      "{}"
-    ],
     "creator": "KingJulian"
   },
   {
@@ -79,9 +76,6 @@
     "version": "4.1",
     "type": "Blueprint",
     "file_name": "Countdown",
-    "referenz": [
-      ""
-    ],
     "creator": "KingJulian"
   },
   {
@@ -419,9 +413,6 @@
     "name": "Rift Mesh",
     "version": "1.0",
     "type": "Mesh",
-    "referenz": [
-      ""
-    ],
     "creator": "KingJulian",
     "file_name": "RiftMesh",
     "require": 7.0
@@ -441,9 +432,6 @@
     "name": "Figment Blast Off VFX",
     "version": "1.0",
     "type": "VFX",
-    "referenz": [
-      ""
-    ],
     "creator": "KingJulian",
     "file_name": "FigmentBlastOffVFX",
     "require": 7.0
@@ -452,9 +440,6 @@
     "name": "Figment Blast Rocket",
     "version": "1.0",
     "type": "Blueprint",
-    "referenz": [
-      ""
-    ],
     "creator": "KingJulian",
     "file_name": "FigmentBlastRocket",
     "require": 7.0
@@ -477,9 +462,6 @@
     "name": "Custom Pickup Material",
     "version": "1.0",
     "type": "Material",
-    "referenz": [
-      ""
-    ],
     "creator": "KingJulian",
     "file_name": "CustomPickupMaterial",
     "require": 7.0
