@@ -500,7 +500,8 @@
     "version": "1.0",
     "type": "CIS",
     "referenz": [
-      "CIS"
+      "CIS",
+      "CVMM"
     ],
     "creator": "KingJulian",
     "file_name": "CIS_CIVM",
@@ -511,8 +512,7 @@
     "version": "1.0",
     "type": "CIS",
     "referenz": [
-      "CIS",
-      "CVMM"
+      "CIS"
     ],
     "creator": "KingJulian",
     "file_name": "CIS_InputSystem",
