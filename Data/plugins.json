@@ -1,5 +1,26 @@
 [
   {
+    "name": "Plugins Libary V2",
+    "version": "1.1.0",
+    "type": "Link",
+    "forceAction": "update",
+    "creator": "KingJulian",
+    "link": "https://github.com/KingJulian2510/UEFN-PluginsLibary/releases/latest",
+    "icon": "PluginsLibaryV2"
+  },
+  {
+    "name": "Plugins Libary",
+    "version": "7.11",
+    "type": "Software Update",
+    "file_name": "PluginsLibary",
+    "require": 4.0,
+    "forceAction": "disable",
+    "referenz": [
+      "{}"
+    ],
+    "creator": "KingJulian"
+  },
+  {
     "name": "Countdown Manager Device",
     "version": "4.0",
     "type": "Verse",
@@ -491,7 +512,7 @@
     "type": "CIS",
     "referenz": [
       "CIS",
-      "CVMM"
+      "CVMM",
     ],
     "creator": "KingJulian",
     "file_name": "CIS_InputSystem",
