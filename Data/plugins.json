@@ -524,5 +524,12 @@
     "type": "Blueprint",
     "creator": "KingJulian",
     "file_name": "LumenCH4"
+  },
+  {
+    "name": "(Star) Pickup VFX",
+    "version": "1.0",
+    "type": "VFX",
+    "creator": "KingJulian",
+    "file_name": "PickupVFXStar"
   }
 ]
