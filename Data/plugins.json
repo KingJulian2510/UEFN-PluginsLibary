@@ -531,5 +531,17 @@
     "type": "VFX",
     "creator": "KingJulian",
     "file_name": "PickupVFXStar"
+  },
+  {
+    "name": "Heal Boots",
+    "version": "1.0",
+    "type": "CIS - Item",
+    "referenz": [
+      "CIS",
+      "PickupVFXStar",
+      "CustomPickupMaterial"
+    ],
+    "creator": "KingJulian",
+    "file_name": "CIS_HealBoots"
   }
 ]
