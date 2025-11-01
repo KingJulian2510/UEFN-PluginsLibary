@@ -67,7 +67,7 @@
   },
   {
     "name": "Fortnite Storm",
-    "version": "1.0",
+    "version": "2.0",
     "type": "Material",
     "file_name": "Storm"
   },
@@ -543,5 +543,15 @@
     ],
     "creator": "KingJulian",
     "file_name": "CIS_HealBoots"
+  },
+  {
+    "name": "Custom Storm Entity",
+    "version": "1.0",
+    "type": "Scene Graph",
+    "referenz": [
+      "Storm"
+    ],
+    "creator": "KingJulian",
+    "file_name": "StormEntity"
   }
 ]
