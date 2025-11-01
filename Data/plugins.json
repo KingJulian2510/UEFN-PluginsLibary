@@ -553,5 +553,12 @@
     ],
     "creator": "KingJulian",
     "file_name": "StormEntity"
+  },
+  {
+    "name": "Tornado",
+    "version": "1.0",
+    "type": "Blueprint",
+    "creator": "KingJulian",
+    "file_name": "Tornado"
   }
 ]
