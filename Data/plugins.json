@@ -560,5 +560,12 @@
     "type": "Blueprint",
     "creator": "KingJulian",
     "file_name": "Tornado"
+  },
+  {
+    "name": "Advanced Level Sequence Device",
+    "version": "1.0",
+    "type": "Verse",
+    "creator": "KingJulian",
+    "file_name": "AdvancedLevelSequenceDevice"
   }
 ]
