@@ -574,6 +574,15 @@
     "type": "Verse",
     "creator": "KingJulian",
     "file_name": "VerseTriggerSystemAPI"
+  },
+  {
+    "name": "Verse Trigger System API Generator",
+    "version": "Stable",
+    "type": "Tool - Link",
+    "forceAction": "open_link",
+    "creator": "KingJulian",
+    "link": "https://github.com/KingJulian2510/VerseTriggerSystemAPI-Generator/"
+    "icon": "Verse"
   }
 
 ]
