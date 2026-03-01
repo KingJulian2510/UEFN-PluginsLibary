@@ -583,5 +583,12 @@
     "creator": "KingJulian",
     "link": "https://github.com/KingJulian2510/VerseTriggerSystemAPI-Generator/",
     "icon": "Verse"
+  },
+  {
+    "name": "Anim To Texture",
+    "version": "2.1",
+    "type": "Material",
+    "creator": "Epic Games",
+    "file_name": "AnimToTexture"
   }
 ]
