@@ -590,5 +590,14 @@
     "type": "Material",
     "creator": "Epic Games",
     "file_name": "AnimToTexture"
+  },
+  {
+    "name": "Community Snippets Libary",
+    "version": "?",
+    "type": "Link",
+    "forceAction": "open_link",
+    "creator": "Fortnite Community",
+    "link": "https://dev.epicgames.com/community/fortnite/snippets",
+    "icon": "Verse"
   }
 ]
