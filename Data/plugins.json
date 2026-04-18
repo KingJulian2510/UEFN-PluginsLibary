@@ -605,6 +605,7 @@
     "version": "1.0",
     "type": "Verse",
     "creator": "KingJulian",
-    "file_name": "PickaxeRarityChanger"
+    "file_name": "PickaxeRarityChanger",
+    "icon": "Verse"
   }
 ]
