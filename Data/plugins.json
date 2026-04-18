@@ -599,5 +599,12 @@
     "creator": "Fortnite Community",
     "link": "https://dev.epicgames.com/community/fortnite/snippets",
     "icon": "Verse"
+  },
+  {
+    "name": "Pickaxe Rarity Changer",
+    "version": "1.0",
+    "type": "Verse",
+    "creator": "KingJulian",
+    "file_name": "PickaxeRarityChanger"
   }
 ]
