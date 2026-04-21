@@ -607,5 +607,13 @@
     "creator": "KingJulian",
     "file_name": "PickaxeRarityChanger",
     "icon": "Verse"
+  },
+  {
+    "name": "Verse Player Name/Skin Icon/Skin Name Get Functions",
+    "version": "1.0",
+    "type": "Verse",
+    "creator": "KingJulian",
+    "file_name": "VersePlayerDataUtils",
+    "icon": "Verse"
   }
 ]
