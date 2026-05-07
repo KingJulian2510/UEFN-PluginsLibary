@@ -615,5 +615,13 @@
     "creator": "KingJulian",
     "file_name": "VersePlayerDataUtils",
     "icon": "Verse"
+  },
+  {
+    "name": "Advanced Item Component + Advanced Item Pickup Component",
+    "version": "1.0",
+    "type": "Verse",
+    "creator": "KingJulian",
+    "file_name": "AdvancedItemComponent",
+    "icon": "Verse"
   }
 ]
