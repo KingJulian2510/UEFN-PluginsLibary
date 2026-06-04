@@ -623,5 +623,12 @@
     "creator": "KingJulian",
     "file_name": "AdvancedItemComponent",
     "icon": "Verse"
+  },
+  {
+    "name": "AGID_Sword_BS",
+    "version": "1.0",
+    "type": "Hidden Item",
+    "creator": "KingJulian",
+    "file_name": "RareSword"
   }
 ]
