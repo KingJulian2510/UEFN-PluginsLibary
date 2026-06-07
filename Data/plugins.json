@@ -630,5 +630,12 @@
     "type": "Hidden Item",
     "creator": "KingJulian",
     "file_name": "RareSword"
+  },
+  {
+    "name": "Midas Drum Gun (Pre Nerfed)",
+    "version": "1.0",
+    "type": "Custom Item",
+    "creator": "KingJulian",
+    "file_name": "MidasDrumGun"
   }
 ]
