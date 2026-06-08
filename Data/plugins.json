@@ -625,6 +625,14 @@
     "icon": "Verse"
   },
   {
+    "name": "Item Destroy System (Pickups)",
+    "version": "1.0",
+    "type": "Verse",
+    "creator": "KingJulian",
+    "file_name": "ItemDestroySystem",
+    "icon": "Verse"
+  },
+  {
     "name": "AGID_Sword_BS",
     "version": "1.0",
     "type": "Hidden Item",
@@ -637,5 +645,12 @@
     "type": "Custom Item",
     "creator": "KingJulian",
     "file_name": "MidasDrumGun"
+  },
+  {
+    "name": "God Guns (DEV Items)",
+    "version": "1.0",
+    "type": "Custom Item",
+    "creator": "KingJulian",
+    "file_name": "GodGuns"
   }
 ]
