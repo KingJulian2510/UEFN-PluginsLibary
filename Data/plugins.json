@@ -629,7 +629,7 @@
     "version": "1.0",
     "type": "Verse",
     "creator": "KingJulian",
-    "file_name": "ItemDestroySystem",
+    "file_name": "DestroyItemSystem",
     "icon": "Verse"
   },
   {
